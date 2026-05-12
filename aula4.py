@@ -14,4 +14,4 @@ print(0.0)    # float zero
 
 # A função type() é usada para verificar o tipo de uma variável ou valor
 print(type(1.1))
-print(type(10))
+print(type(10)) 
