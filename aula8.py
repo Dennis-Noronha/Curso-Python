@@ -1,3 +1,5 @@
+# Primeiro exercício em Python
+
 nome = 'Dênnis'
 sobrenome = 'Noronha'
 idade = 20
